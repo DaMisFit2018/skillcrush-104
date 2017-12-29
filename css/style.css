@@ -9525,6 +9525,39 @@ font-family: 'Montserrat', sans-serif;
 
 /* End Biskitcrumb's Styles */
 
+/****** YBARRA STYLE********/
+.ybarra-advice {
+    font: lora;
+}
+
+.ybarra-advice h1 {
+    background-color: #6ACFBF;
+    color: white;
+	  border: solid; 5px;
+	  border-color: bisque;
+    font-size: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 50px 0;
+}
+
+.ybarra-advice h4 {
+    background-color: black;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    min-width: 0;
+}
+
+.ybarra-advice p {
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    background-color: #A1EDE4;
+}
+
+/******* END YBARRA ADVICE *****/
+
 /***** Start Melanie's Styles *****/
 
 .melaniejansen-advice h1 {
@@ -9549,4 +9582,3 @@ font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   text-align: center;
 }
-
